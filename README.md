@@ -1,0 +1,1 @@
+- This is a simple demonstration of a stopwatch application using react js.
